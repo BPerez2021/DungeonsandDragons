@@ -10,5 +10,6 @@ could allow the opportunity for novice players to make a quick character they co
 
 Features:
 -calculates character's stats: strength, dexterity, constitution, intellegence, wisdom, charisma, armor class, and initive
--presented on a stylized  background and text
--may present visual (depending on time and ability)
+-presented on a stylized background and text
+X-may present visual (depending on time and ability)CANCELLED due to lack of time for creating visuals
+-space bar allows the user the opportunity to re-randomize the character
